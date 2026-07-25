@@ -514,7 +514,7 @@ function About() {
           <div className="photo-row">
             <div className="photo-circle">
               <img
-                src="../public/my-photo.jpg"
+                src="/my-photo.jpg"
                 alt="Suud — profile photo"
                 className="photo-img"
                 onError={(e) => {
