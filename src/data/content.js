@@ -169,7 +169,7 @@ export const about = {
     },
     {
       icon: Code2,
-      text: "Member of Shaggar Institute of Technology's software development team",
+      text: "Completed Dr. Angela Yu’s online bootcamp, one of the most popular and highest-rated web development courses on Udemy",
     },
   ],
 };
