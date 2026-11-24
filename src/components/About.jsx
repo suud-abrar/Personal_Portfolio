@@ -38,8 +38,7 @@ export function About() {
               margin: 0,
             }}
           >
-            I'm a Software Engineering student at Shaggar Institute of
-            Technology in Addis Ababa, originally from Waliso, Ethiopia. I
+            I'm a self taught software developer in Addis Ababa, originally from Waliso, Ethiopia. I
             completed high school at Oromia Development Association Boarding
             School (ODA SBS). I build full-stack web applications, automation
             pipelines, and AI-powered tools — from a Telegram bot that serves
